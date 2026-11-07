@@ -1,0 +1,7 @@
+.idea
+.git
+bin
+*.md
+*.exe
+*.test
+agent-transcripts
